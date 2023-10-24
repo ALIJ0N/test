@@ -1,0 +1,28 @@
+hello: Welcome to my bot
+info: this is my video bot
+category:
+  tiktok: tiktok
+  facebook: facebook
+  youtube: youtube
+  instagram: instagram
+  twitter: twitter
+  pinterest: pinterest
+  linkedin: linkedin
+  vimeo: vimeo
+  dailymotion: dailymotion
+  reddit: reddit
+  ok: ok
+  vk: vk
+  tumblr: tumblr
+  soundcloud: soundcloud
+  streamable: streamable
+  imgur: imgur
+  izlesene: izlesene
+  likee: likee
+  ted: ted
+  twitch: twitch
+  mxtakatak: mxtakatak
+  kwai: kwai
+  phub: pornhub
+admin:
+  hello: "👋Merhabalar Abdulazizbey,\n \n🧑‍💻 admin paneline hoşgeldiniz \n \n📈 Kullanıcılar hakkında bilgi almak için /users yazabilirsiniz"

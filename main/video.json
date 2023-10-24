@@ -1,0 +1,68 @@
+{
+  "message_id": 123133,
+  "from": {
+    "id": 6103239909,
+    "is_bot": true,
+    "first_name": "test",
+    "username": "testasdfjbot"
+  },
+  "chat": {
+    "id": 5403720382,
+    "first_name": "Abdulaziz",
+    "last_name": "Shamsiev",
+    "username": "photo_make_r",
+    "type": "private"
+  },
+  "date": 1695728354,
+  "video": {
+    "duration": 9,
+    "width": 720,
+    "height": 1280,
+    "file_name": "video.mp4",
+    "mime_type": "video/mp4",
+    "thumbnail": {
+      "file_id": "AAMCBAADGQMAAQHg_WUSwuEwf0_g3cifxVSO6_zo82V7AAIuHAACETWZUGOlCk-9eRCHAQAHbQADMAQ",
+      "file_unique_id": "AQADLhwAAhE1mVBy",
+      "file_size": 644,
+      "width": 180,
+      "file_id": "AAMCBAADGQMAAQHg_WUSwuEwf0_g3cifxVSO6_zo82V7AAIuHAACETWZUGOlCk-9eRCHAQAHbQADMAQ",
+      "file_unique_id": "AQADLhwAAhE1mVBy",
+      "file_size": 644,
+      "width": 180,
+      "height": 320
+    },
+    "file_id": "BAACAgQAAxkDAAEB4P1lEsLhMH9P4N3In8VUjuv86PNlewACLhwAAhE1mVBjpQpPvXkQhzAE",
+    "file_unique_id": "AgADLhwAAhE1mVA",
+    "file_size": 496936
+  },
+  "caption": "this is my video bot"
+}
+
+
+///raw start msg\\\
+
+
+{
+  message_id: 123408,
+  from: {
+    id: 5403720382,
+    is_bot: false,
+    first_name: 'Abdulaziz',
+    last_name: 'Shamsiev',
+    username: 'photo_make_r',
+    language_code: 'tr'
+  },
+  chat: {
+    id: 5403720382,
+    first_name: 'Abdulaziz',
+    last_name: 'Shamsiev',
+    username: 'photo_make_r',
+    type: 'private'
+  },
+  date: 1695888339,
+  text: '/start',
+  entities: [
+    { offset: 0, length: 6, type: 'bot_command'
+    }
+  ]
+}
